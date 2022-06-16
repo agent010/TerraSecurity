@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TerraSecurity", "TerraSecurity.njsproj", "{24050064-BBDB-4D89-851F-80ED96F3D353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24050064-BBDB-4D89-851F-80ED96F3D353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24050064-BBDB-4D89-851F-80ED96F3D353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24050064-BBDB-4D89-851F-80ED96F3D353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24050064-BBDB-4D89-851F-80ED96F3D353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BF9E26-F6B7-45A2-8A32-291DE3524B57}
+	EndGlobalSection
+EndGlobal
